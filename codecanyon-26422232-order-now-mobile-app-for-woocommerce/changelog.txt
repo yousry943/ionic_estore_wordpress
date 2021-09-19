@@ -1,0 +1,41 @@
+*** Change-log - Mstoreapp Mobile for WooCommerce ***
+
+*******************************************************
+							
+If you like My App please leave us a ★★★★★ rating on codecanyon. A huge thanks in advance!		
+											
+********************************************************
+
+********************************************************
+
+2020.06.12 - version 1.5
+---------------------------------
+
+1) MultiVendor Location based filter for store, products and categories
+2) Update mstoreapp-mobile-app-multivendor plugin
+
+2020.05.23 - version 1.3
+---------------------------------
+
+1) Change in api.service.ts file
+
+2020.05.23 - version 1.2
+---------------------------------
+
+1) Multivendor Features
+2) Tabs
+3) Profile Page
+4) Layout and styles on most pages
+5) mstoreapp-mobile-app WordPress Plugin Update - upload and replace existing plugin
+
+2020.04.28 - version 1.1
+---------------------------------
+
+1) Added Coupouns
+2) mstoreapp-mobile-app WordPress Plugin Update - upload and replace existing plugin
+3) Added Wallet
+
+
+2020.04.22 - version 1.0
+---------------------------------
+* First release!

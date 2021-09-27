@@ -309,7 +309,7 @@ export class HomePage implements OnInit {
         }, 2000);
     }
     getShippingAndPayment() {
-        this.service.getItem('/shipping/zones/0/methods').then((results) => {
+        this.service.getItem('/shipping/zones/1/methods').then((results) => {
             this.values.shippingMethods = results;
             if(this.values.shippingMethods.length)
             this.values.order.shipping_lines[0].method_id = this.values.shippingMethods[0].method_id;

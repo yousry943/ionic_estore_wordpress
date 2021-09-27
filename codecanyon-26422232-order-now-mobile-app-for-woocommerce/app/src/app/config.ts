@@ -29,14 +29,23 @@ export class Config {
        
 
 
-        this.url = 'http://192.168.1.37/wordpress';
-        this.consumerKey = 'ck_d2e1f1c565218f857d437f5a1e026842752e7c9d';
-        this.consumerSecret = 'cs_6670a2fc17598b4d749f3b42861b513a6159dbde';
+     
+        // this.url = 'http://192.168.1.37/wordpress';
+        // this.consumerKey = 'ck_d2e1f1c565218f857d437f5a1e026842752e7c9d';
+        // this.consumerSecret = 'cs_6670a2fc17598b4d749f3b42861b513a6159dbde';
 
 
         // this.url = 'http://jigteg.jigt.ws';
         // this.consumerKey = 'ck_d40098d893536ebff8b3ef8cb4caa552f3d17c8e';
         // this.consumerSecret = 'cs_3d5701f8b7319da566fdd07172db1c35cdd1d9c5';
+
+        this.url = 'https://www.jigt.ws';
+        this.consumerKey = 'ck_14e23b0dfbe47aca0ea8395022fd91fa2dda457a';
+        this.consumerSecret = 'cs_839a163ca0b9a9c964c8706d938e6ec0581585a7';
+
+        // this.url = 'https://mobile.drayman.co';
+        // this.consumerKey = 'ck_29a7b9d0a90c5d69230f82bfc7918f347c1ac305';
+        // this.consumerSecret = 'cs_26c71746bf5c4aa847d612c1a5f1896ba1d7b0c8';
 
         this.options.withCredentials = true;
         this.options.headers = headers;
